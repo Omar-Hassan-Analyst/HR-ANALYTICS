@@ -138,7 +138,10 @@ The main objective of this project was to transform raw HR workforce data into a
 
 The solution demonstrates how data analytics can support HR teams in understanding workforce composition, monitoring attrition, and identifying important workforce patterns.
 
----
+### 🔗 Tools
+
+**Power BI • DAX • Power Query • Data Modeling • Data Visualization • HR Analytics**
+
 
 ## 👨‍💻 Author
 
@@ -147,17 +150,3 @@ The solution demonstrates how data analytics can support HR teams in understandi
 **CIPD Associate Member (UK) · IHRM Full Member (Kenya) · People Analytics · Mombasa, Kenya**
 
 Interested in using **data analytics, visualization, and business intelligence** to transform complex datasets into meaningful insights.
-
----
-
-## ⭐ Support
-
-If you find this project useful, consider giving the repository a **⭐ Star**.
-
-More analytics projects coming soon.
-
----
-
-### 🔗 Tools
-
-**Power BI • DAX • Power Query • Data Modeling • Data Visualization • HR Analytics**
