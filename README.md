@@ -8,9 +8,17 @@ The dashboard provides a centralized view of **headcount, attrition, demographic
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Command Dashboard](https://github.com/Omar-Hassan-Analyst/HR-ANALYTICS/blob/main/hr%20analytics.jpg)
+![HR Analytics Command Dashboard](./HR-ANALYTICS/blob/main/hr%20analytics.jpg)
 
 ---
+
+## 📁 Repository Structure
+
+```text
+├── 📄 README.md                           <- Project overview and documentation
+├── 📊 HR Analytics Command Dashboard.pbix <- Interactive Power BI dashboard file
+├── 💾 HR_Workforce_Dataset.csv           <- Dataset used for analysis
+└── 🖼️ hr analytics.jpg                  <- High-resolution dashboard screenshot
 
 ## 📌 Project Overview
 
