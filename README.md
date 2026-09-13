@@ -14,7 +14,6 @@ The dashboard provides a centralized view of **headcount, attrition, demographic
 
 ## 📁 Repository Structure
 
-```text
 ├── 📄 README.md                           <- Project overview and documentation
 ├── 📊 HR Analytics Command Dashboard.pbix <- Interactive Power BI dashboard file
 ├── 💾 HR_Workforce_Dataset.csv           <- Dataset used for analysis
