@@ -8,7 +8,7 @@ The dashboard provides a centralized view of **headcount, attrition, demographic
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Command Dashboard](./HR-ANALYTICS/blob/main/hr%20analytics.jpg)
+![HR Analytics Command Dashboard](./hr%20analytics.jpg)
 
 ---
 
